@@ -1,4 +1,4 @@
-# TLP — Temporal Loop Processing
+# TLP - Temporal Loop Processing
 
 **A Hardware-Realistic Time-Symmetric Error Mitigation Framework for Trapped-Ion Quantum Processors using Qiskit**
 
