@@ -559,7 +559,7 @@ Each benchmark report must specify:
 
 Higher gains may be possible for structured circuits under favorable noise conditions.
 
-**Note:** These are theoretical estimates based on the error model derived in Section 5.5. Actual performance will be determined through hardware validation.
+**Note:** These are theoretical estimates based on the delivered error models. Actual performance will be determined through hardware validation.
 
 ---
 
