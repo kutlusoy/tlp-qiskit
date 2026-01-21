@@ -2,10 +2,6 @@
 
 **A Hardware-Realistic Time-Symmetric Error Mitigation Framework for Trapped-Ion Quantum Processors**
 
-[![arXiv](https://img.shields.io/badge/arXiv-pending-b31b1b.svg)](https://arxiv.org)
-[![Qiskit](https://img.shields.io/badge/Qiskit-Compatible-6929C4.svg)](https://qiskit.org/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-
 ---
 
 ## Overview
@@ -370,3 +366,7 @@ This work builds upon established principles in quantum error mitigation, time-r
 ---
 
 **Note:** This is a specification and research proposal. Implementation is ongoing. All performance claims are theoretical and subject to experimental validation. This work represents an independent research effort and does not imply endorsement by Qiskit, IBM, or any hardware provider.
+
+[![arXiv](https://img.shields.io/badge/arXiv-pending-b31b1b.svg)](https://arxiv.org)
+[![Qiskit](https://img.shields.io/badge/Qiskit-Compatible-6929C4.svg)](https://qiskit.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
